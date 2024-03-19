@@ -14,8 +14,8 @@ A simple todo list application built with Rust, using `eframe` for the GUI and `
 ## Usage
 
 - **Adding a Task**: Click the `➕` button and enter the task. Press the green checkmark to add the task to the list.
-- **Editing a Task**: Click the `Edit` button next to a task to modify its description. Press the checkmark button to save changes.
-- **Deleting a Task**: Click the red `❌` button to remove a task from the list.
+- **Editing a Task**: Click the `Edit` button next to a task to modify its description. Press the `✔` button to save changes.
+- **Deleting a Task**: Click the `❌` button to remove a task from the list.
 - **Saving/Loading**: Use the `Save` and `Load` buttons to save the tasks to a file or load them from an existing file.
 
 ## Installation
