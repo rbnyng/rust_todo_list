@@ -2,7 +2,7 @@
 
 A simple todo list application built with Rust, using `eframe` for the GUI and `rfd` for file persistence management.
 
-![Screenshot of app](img/img.png?raw=true "Title"){:height="800px" width="600px"}
+![Screenshot of app](img/img.png?raw=true "Title" =800x600)
 
 ## Features
 
