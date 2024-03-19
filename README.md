@@ -2,6 +2,8 @@
 
 A simple todo list application built with Rust, using `eframe` for the GUI and `rfd` for file persistence management.
 
+![Screenshot of app](img/img.png?raw=true "Title")
+
 ## Features
 
 - **Add, Edit, and Delete Tasks**: Manage tasks with interactive buttons.
