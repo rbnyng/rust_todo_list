@@ -25,8 +25,8 @@ To build this project from source, you need to have Rust and Cargo installed on 
 1. Clone the repository:
 
 ```bash
-git clone https://yourrepositoryurl.com
-cd rust-todo-list-app
+git clone https://github.com/rbnyng/rust_todo_list
+cd rust_todo_list
 ```
 
 2. Build and run the project:
